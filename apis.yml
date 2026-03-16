@@ -1,0 +1,44 @@
+aid: linux-foundation
+name: Linux Foundation
+description: >-
+  The Linux Foundation is a nonprofit technology consortium that supports open source projects and ecosystems. It provides a neutral home for collaboration on open source software, hardware, standards, and data, and hosts over 900 projects including Linux, Kubernetes, and Node.js.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Open Source
+  - Nonprofit
+  - Technology
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/linux-foundation/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: linux-foundation:linux-foundation-api
+    name: Linux Foundation API
+    description: >-
+      Programmatic access to Linux Foundation project resources, member data, and open source ecosystem information.
+    humanURL: https://www.linuxfoundation.org/projects
+    tags:
+  - Open Source
+  - Nonprofit
+  - Technology
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://www.linuxfoundation.org/projects
+common:
+  - type: Documentation
+    name: Linux Foundation Documentation
+    description: Official documentation for Linux Foundation.
+    url: https://www.linuxfoundation.org/projects
+  - type: GitHubOrg
+    name: Linux Foundation GitHub
+    description: Source code and repositories for Linux Foundation.
+    url: https://github.com/LF-Engineering
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
