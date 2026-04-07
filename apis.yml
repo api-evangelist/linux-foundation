@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Open Source
-  - Nonprofit
-  - Technology
   - Linux Foundation
+  - Nonprofit
+  - Open Source
+  - Technology
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,10 +23,10 @@ apis:
       Programmatic access to Linux Foundation project resources, member data, and open source ecosystem information.
     humanURL: https://www.linuxfoundation.org/projects
     tags:
-      - Open Source
-      - Nonprofit
-      - Technology
       - Linux Foundation
+      - Nonprofit
+      - Open Source
+      - Technology
     properties:
       - type: Documentation
         url: https://www.linuxfoundation.org/projects
