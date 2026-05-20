@@ -56,6 +56,8 @@ apis:
       - type: Profile
         url: https://myprofile.lfx.linuxfoundation.org/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-linux-foundation
   - type: Documentation
     name: Linux Foundation Documentation
     description: Official documentation for the Linux Foundation.
