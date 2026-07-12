@@ -56,6 +56,10 @@ apis:
       - type: Profile
         url: https://myprofile.lfx.linuxfoundation.org/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/linux-foundation-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/linux-foundation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/the-linux-foundation
   - type: Documentation
