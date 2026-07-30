@@ -8,9 +8,21 @@ description: >-
   CNCF, RISC-V, and FINOS. The LFX platform offers tooling and insights for
   open source contributors and member organizations.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/linux-foundation.png
 tags:
   - Linux Foundation
   - Nonprofit
@@ -18,25 +30,11 @@ tags:
   - Technology
   - LFX
 created: '2026-03-16'
-modified: '2026-04-28'
+modified: '2026-07-25'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/linux-foundation/refs/heads/main/apis.yml
 specificationVersion: '0.19'
 apis:
-  - aid: linux-foundation:linux-foundation-projects
-    name: Linux Foundation Projects
-    description: >-
-      Programmatic access to Linux Foundation project resources, member data,
-      and open source ecosystem information across hosted foundations such as
-      CNCF, OpenSSF, OpenJS, LF Networking, LF Decentralized Trust, and others.
-    humanURL: https://www.linuxfoundation.org/projects
-    tags:
-      - Linux Foundation
-      - Projects
-      - Open Source
-    properties:
-      - type: Documentation
-        url: https://www.linuxfoundation.org/projects
   - aid: linux-foundation:lfx-platform
     name: LFX Platform
     description: >-
@@ -55,6 +53,20 @@ apis:
         url: https://insights.lfx.dev/
       - type: Profile
         url: https://myprofile.lfx.linuxfoundation.org/
+  - aid: linux-foundation:linux-foundation-projects
+    name: Linux Foundation Projects
+    description: >-
+      Programmatic access to Linux Foundation project resources, member data,
+      and open source ecosystem information across hosted foundations such as
+      CNCF, OpenSSF, OpenJS, LF Networking, LF Decentralized Trust, and others.
+    humanURL: https://www.linuxfoundation.org/projects
+    tags:
+      - Linux Foundation
+      - Projects
+      - Open Source
+    properties:
+      - type: Documentation
+        url: https://www.linuxfoundation.org/projects
 common:
   - type: VulnerabilityDisclosure
     url: security/linux-foundation-vulnerability-disclosure.yml
