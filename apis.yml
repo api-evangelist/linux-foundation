@@ -25,6 +25,12 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/linux-foundation.png
 tags:
   - Linux Foundation
+  - Non-Profit
+  - Open-Source
+  - Technology
+  - LFX
+tags_raw:
+  - Linux Foundation
   - Nonprofit
   - Open Source
   - Technology
@@ -61,6 +67,10 @@ apis:
       CNCF, OpenSSF, OpenJS, LF Networking, LF Decentralized Trust, and others.
     humanURL: https://www.linuxfoundation.org/projects
     tags:
+      - Linux Foundation
+      - Project
+      - Open-Source
+    tags_raw:
       - Linux Foundation
       - Projects
       - Open Source
