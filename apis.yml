@@ -37,7 +37,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/linux-foun
 tags:
   - Linux Foundation
   - Non-Profit
-  - Open-Source
+  - Open Source
   - Technology
   - LFX
 tags_raw:
@@ -46,6 +46,7 @@ tags_raw:
   - Open Source
   - Technology
   - LFX
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-07-25'
 url: >-
@@ -80,11 +81,12 @@ apis:
     tags:
       - Linux Foundation
       - Project
-      - Open-Source
+      - Open Source
     tags_raw:
       - Linux Foundation
       - Projects
       - Open Source
+      - Open-Source
     properties:
       - type: Documentation
         url: https://www.linuxfoundation.org/projects
